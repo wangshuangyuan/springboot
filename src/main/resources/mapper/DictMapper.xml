@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.springboot.demo.mapper.DictMapper">
+
+    <select id="selectTotal" resultType="int">
+        select count(*) from sys_dict
+    </select>
+    <!--    查询所有-->
+    <select id="findAll" resultType="com.example.springboot.demo.pojo.Dict">
+        select * from sys_dict
+    </select>
+
+    <select id="selectPages" resultType="com.example.springboot.demo.pojo.Dict">
+        select * from sys_dict where name like concat('%',#{name},'%') limit #{pageNum},#{pageSize}
+    </select>
+    <!--    新增-->
+    <insert id="insertDict" >
+        insert into sys_dict(name,value,type) values(#{name},#{value},#{type})
+    </insert>
+
+    <delete id="deleteById">
+        delete from sys_dict where id=#{id}
+    </delete>
+
+    <update id="updateDict">
+        update sys_dict
+        <set>
+            <if test="value!=null ">
+                value=#{value},
+            </if>
+            <!--            <if test="password!=null ">-->
+            <!--                password=#{password}-->
+            <!--            </if>-->
+            <if test="type!=null ">
+                type=#{type},
+            </if>
+        </set>
+        <where>
+            name=#{name}
+        </where>
+    </update>
+</mapper>
