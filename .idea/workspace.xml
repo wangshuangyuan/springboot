@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36c73f22-a767-4529-a505-5c2e204a1e44" name="更改" comment="第一次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bde90fd9-dd39-49aa-a28d-60cdbac0adae" />
+        <option name="url" value="git@github.com:/wangshuangyuan/springboot.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mvnconf\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2g8bdJX3ZjnhC12VJNA4C5SnSli" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaproject/springboot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d164d99c46d45be6b1e7585ff7ea10e7&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaproject\springboot\src\main\resources\mapper" />
+      <recent name="D:\javaproject\springboot\src\main\java\com\example\springboot\demo\mapper\impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaproject\springboot\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot.demo.SpringbootApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboot.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringbootApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="36c73f22-a767-4529-a505-5c2e204a1e44" name="更改" comment="" />
+      <created>1715082254244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715082254244</updated>
+      <workItem from="1715082254249" duration="1430000" />
+      <workItem from="1715083920778" duration="1151000" />
+      <workItem from="1715085379585" duration="11626000" />
+      <workItem from="1715099757348" duration="4167000" />
+      <workItem from="1715181250655" duration="9150000" />
+      <workItem from="1715257924600" duration="1334000" />
+      <workItem from="1715267854250" duration="1857000" />
+      <workItem from="1715271846668" duration="159000" />
+      <workItem from="1715436653721" duration="1891000" />
+      <workItem from="1715501145583" duration="2238000" />
+      <workItem from="1715529924438" duration="95000" />
+      <workItem from="1715674246123" duration="3780000" />
+      <workItem from="1715678098441" duration="4270000" />
+      <workItem from="1715695342741" duration="6548000" />
+      <workItem from="1715761306817" duration="953000" />
+      <workItem from="1715786813644" duration="1842000" />
+      <workItem from="1715828896628" duration="1345000" />
+      <workItem from="1715872660031" duration="4176000" />
+      <workItem from="1716017668305" duration="7126000" />
+      <workItem from="1716043629729" duration="9732000" />
+      <workItem from="1716124435613" duration="3453000" />
+      <workItem from="1716294952521" duration="1297000" />
+      <workItem from="1716303056374" duration="1071000" />
+      <workItem from="1716651414609" duration="3736000" />
+      <workItem from="1716997192602" duration="4133000" />
+      <workItem from="1717045709262" duration="1366000" />
+      <workItem from="1717074300926" duration="10052000" />
+      <workItem from="1717163517374" duration="596000" />
+      <workItem from="1717232988034" duration="7876000" />
+      <workItem from="1717254948786" duration="6339000" />
+      <workItem from="1717306742852" duration="16913000" />
+      <workItem from="1717389430168" duration="18969000" />
+      <workItem from="1717483306240" duration="16296000" />
+      <workItem from="1717571496812" duration="5377000" />
+      <workItem from="1717603614990" duration="946000" />
+      <workItem from="1717660655422" duration="2736000" />
+      <workItem from="1717759859268" duration="3168000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1717773059630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717773059630</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1717773420121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717773420121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="hash" />
+        <PinnedItemInfo parentTag="com.example.springboot.demo.pojo.dto.UserDTO" memberName="username" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
